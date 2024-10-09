@@ -110,7 +110,7 @@ footer {
     align-items: center;
 }
 .percentage {
-    color: var(--white-color); /* White color for visibility */
-    font-weight: bold; /* Make it bold */
-    font-size: 14px; /* Font size for percentage text */
+    color: var(--white-color);
+    font-weight: bold;
+    font-size: 14px;
 }
